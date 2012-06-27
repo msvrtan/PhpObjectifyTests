@@ -1,6 +1,10 @@
 #ignoring PHPStorm
 .idea
 
+#ignoring Sublime text2 files
+/*.sublime-project
+/*.sublime-workspace
+
 #merge files
 *.orig
 
